@@ -1,0 +1,79 @@
+{
+    "products": [
+        {
+            "id": "f76831e0-a976-11ee-a390-9bca7641d23e",
+            "name": "Master Pack Upgrade",
+            "id_role" : 1193751638591148062
+        },
+        {
+            "id": "72ef8cb0-a8db-11ee-a2c3-bd4adca6033a",
+            "name": "Liberar Acesso Vitalício - Iluminação Level 100",
+            "id_role" : 1193965896151076864
+        },
+        {
+            "id": "d14f20d0-a8cd-11ee-a7d4-7ffefd46f816",
+            "name": "Liberar Acesso Vitalício - Master Pack",
+            "id_role" : 1195439295327117474
+        },
+        {
+            "id": "eddc7e00-9c93-11ee-b8fd-ad43178e7979",
+            "name": "Método Portfólio DEST - Dominando a como Expor Seu Trabalho",
+            "id_role" : 1195440313985146880
+        },
+        {
+            "id": "67a426b0-9b64-11ee-88da-6b1d56c582b6",
+            "name": "Método Portfólio DEST - Dominando a como Expor Seu Trabalho",
+            "id_role" : 1195440313985146880
+        },
+        {
+            "id": "091737e0-987b-11ee-ba4f-bb480046e1ae",
+            "name": "Ultimate Master Pack",
+            "id_role" : 1193751638591148062
+        },
+        {
+            "id": "c133ff00-9850-11ee-8738-7fe056c161bf",
+            "name": "ILUMINAÇÃO LEVEL 100 PLANO MASTER",
+            "id_role" : 1195439523157524580
+        },
+        {
+            "id": "a3a93830-6c25-11ee-864f-31297ce77e43",
+            "name": "ILUMINAÇÃO LEVEL 100",
+            "id_role" : 1195439523157524580
+        },
+        {
+            "id": "72d33cf0-6a23-11ee-bb9a-65e3bcf7eb3c",
+            "name": "Master Pack Grupo Vip- Psychic Designer",
+            "id_role" : 1195440533615673574
+        },
+        {
+            "id": "678a3c80-69d4-11ee-bba6-3fd89a8de39e",
+            "name": "Master Pack - Psychic Designer",
+            "id_role" : 1193751638591148062
+        },
+        {
+            "id": "8dfd9260-5c62-11ee-a66f-5d1085ab90e0",
+            "name": "ILUMINAÇÃO LEVEL 100 - Curso completo",
+            "id_role" : 1195439523157524580
+        },
+        {
+            "id": "988b4cc0-3d2e-11ee-99c5-91517e2f5eb1",
+            "name": "Master Creator Sports - Psychic Designer",
+            "id_role" : 1195440733067423817
+        },
+        {
+            "id": "53160f20-1bb1-11ee-8282-bf3559327148",
+            "name": "Pack Master PSDs - 10 PSDs exclusivos",
+            "id_role" : 1195440916303970405
+        },
+        {
+            "id": "0ced0580-fa6e-11ed-9545-bf3217497980",
+            "name": "Mentoria Skin Retouch & Criação de BG",
+            "id_role" : 1195441206772113469
+        },
+        {
+            "id": "1d54e670-ca6e-11ed-9d04-81d7ca0a0c09",
+            "name": "Páscoa Do Designer - Psychic Designer",
+            "id_role" : 1195441060676112384
+        }
+    ]
+}

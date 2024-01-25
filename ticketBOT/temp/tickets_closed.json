@@ -1,0 +1,24 @@
+{
+    "tickets": [
+        {
+            "user_id": 818152650222731304,
+            "type": "suporte_geral",
+            "channel_id": 1198073266523361443
+        },
+        {
+            "user_id": 836294159244853250,
+            "type": "suporte_geral",
+            "channel_id": 1198980515299074129
+        },
+        {
+            "user_id": 836294159244853250,
+            "type": "suporte_geral",
+            "channel_id": 1198980768253345897
+        },
+        {
+            "user_id": 836294159244853250,
+            "type": "denuncia",
+            "channel_id": 1199000106763026475
+        }
+    ]
+}

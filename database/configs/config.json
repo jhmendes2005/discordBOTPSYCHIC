@@ -1,0 +1,6 @@
+{
+    "host": "psychic_dis.mysql.dbaas.com.br",
+    "user": "psychic_dis",
+    "password": "Psychic@12345",
+    "database": "psychic_dis"
+}
