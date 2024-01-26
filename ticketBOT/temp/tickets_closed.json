@@ -19,6 +19,16 @@
             "user_id": 836294159244853250,
             "type": "denuncia",
             "channel_id": 1199000106763026475
+        },
+        {
+            "user_id": 836294159244853250,
+            "type": "ajuda_verifica\u00e7\u00e3o",
+            "channel_id": 1199323268583280691
+        },
+        {
+            "user_id": 836294159244853250,
+            "type": "ajuda_verifica\u00e7\u00e3o",
+            "channel_id": 1200163565655576626
         }
     ]
 }

@@ -229,12 +229,19 @@ class moderationEvents(commands.Cog):
 
     @commands.Cog.listener()
     async def on_member_join(self, member):
-        channel = self.bot.get_channel(1193225414185848964)  # Substitua pelo ID do canal de boas-vindas
+        channel_id = 1193225414185848964  # Substitua pelo ID do canal de boas-vindas
+        role_id = 1193672352941228042  # Substitua pelo ID do papel que você deseja adicionar
+
+        channel = self.bot.get_channel(channel_id)
         if channel:
-            embed = discord.Embed(title=f"Bem-vindo(a) {member.name}!", description=f"Seja bem-vindo(a) a nossa comunidade PSYCHIC DESIGNER, {member.mention}! Faça sua validação em: #validação e aproveite tudo oq temos a oferecer!", color=0x00ff00)
+            embed = discord.Embed(title=f"Bem-vindo(a) {member.name}!", description=f"Seja bem-vindo(a) a nossa comunidade PSYCHIC DESIGNER, {member.mention}! Faça sua validação em: #validação e aproveite tudo o que temos a oferecer!", color=0x00ff00)
             embed.set_thumbnail(url=member.display_avatar.url)
             embed.set_footer(text=f"Entrou em: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
             await channel.send(embed=embed)
+
+            role = member.guild.get_role(role_id)
+            if role:
+                await member.add_roles(role)
 
     @commands.Cog.listener()
     async def on_message_delete(self, message: discord.Message):
